@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .cls-1{fill:#f66257}
+        </style>
+    </defs>
+    <g id="noun_Error_1073622" transform="translate(-4 -4)">
+        <g id="Group_24385" transform="translate(4 4)">
+            <g id="Group_24384" transform="translate(0 0)">
+                <path id="Path_22912" d="M11 4a7 7 0 1 0 7 7 7 7 0 0 0-7-7zm0 12.727A5.727 5.727 0 1 1 16.727 11 5.724 5.724 0 0 1 11 16.727z" class="cls-1" transform="translate(-4 -4)"/>
+                <path id="Path_22913" d="M44.636 30.932a.638.638 0 0 0 .636-.636v-3.66a.636.636 0 1 0-1.273 0V30.3a.638.638 0 0 0 .637.632z" class="cls-1" transform="translate(-37.636 -22.5)"/>
+                <circle id="Ellipse_4008" cx=".795" cy=".795" r=".795" class="cls-1" transform="translate(6.205 9.116)"/>
+            </g>
+        </g>
+    </g>
+</svg>
